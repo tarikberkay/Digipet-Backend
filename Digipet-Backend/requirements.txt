@@ -1,0 +1,8 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+dj-rest-auth
+django-ckeditor
+dj-rest-auth[with_social]
+Pillow
+django-cron
